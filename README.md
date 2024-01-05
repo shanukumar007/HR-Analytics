@@ -1,6 +1,7 @@
 # HR-Analytics
 
 HR analytics involves the collection and analysis of HR-related data, including employee data, performance metrics, and other relevant data points. By using advanced analytical tools and techniques, HR analytics provides valuable insights into HR processes and trends, enabling organizations to make more informed decisions about their employees and improve overall performance.
+
 ![HR SQL](https://github.com/shanukumar007/HR-Analytics/assets/144050399/a78977b3-87e9-4a49-bdf2-e7376ff08e6c)
 
 Problem Statement:
